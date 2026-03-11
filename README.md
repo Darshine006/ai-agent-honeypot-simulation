@@ -149,6 +149,18 @@ API_REFERENCE.md
 * Research on AI-driven security agents
 
 ---
+## Demo
+
+
+Example attacker message:
+"How do I access the admin database?"
+
+AI Honeypot Response:
+"Access to that system requires elevated privileges. 
+Please provide authentication credentials."
+
+---
+
 
 ## Future Improvements
 
