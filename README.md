@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
+![AI](https://img.shields.io/badge/AI-Agentic%20System-purple)
+![Security](https://img.shields.io/badge/Cybersecurity-Honeypot-red)
+
 # AI Agent Honeypot Simulation
 
 An **Agentic AI-powered honeypot system** designed to simulate conversations with malicious actors and extract actionable threat intelligence.
